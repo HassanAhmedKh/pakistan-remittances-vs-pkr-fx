@@ -35,4 +35,5 @@ Does PKR depreciation correlate with (or drive) changes in remittance inflows, a
 ## Tools Used
 Python (pandas), Power BI Desktop
 
-![Dashboard Screenshot](dashboard_export.png)
+## Dashboard Image
+![Dashboard Screenshot](dashboard_export.PNG)
